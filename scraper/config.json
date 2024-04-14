@@ -1,0 +1,14 @@
+{
+  "api_id": "<placeholder>",
+  "api_hash": "<placeholder>",
+  "channel_id": "<placeholder>",
+  "host": "<placeholder>",
+  "port": "<placeholder>",
+  "user": "<placeholder>",
+  "password": "<placeholder>",
+  "db": "<placeholder>",
+  "db_table": "<placeholder>",
+  "mail_sender": "<placeholder>",
+  "mail_password": "<placeholder>",
+  "mail_receiver": "<placeholder>"
+}
